@@ -99,4 +99,4 @@ MIT.
 - [solo-saas-launch-checklist](https://github.com/0xelitesystem/solo-saas-launch-checklist) - includes email deliverability items
 - [ai-product-disclaimers](https://github.com/0xelitesystem/ai-product-disclaimers) - disclaimers for AI-product transactional email
 - [api-security-audit-checklist](https://github.com/0xelitesystem/api-security-audit-checklist) - covers API-driven email send paths
-- [webhook-inspector](https://github.com/0xelitesystem/webhook-inspector) - for debugging email-service webhooks
+- [service-worker-webhook-inspector](https://github.com/0xelitesystem/service-worker-webhook-inspector) - for debugging email-service webhooks
