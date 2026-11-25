@@ -1,8 +1,8 @@
-# email-spam-score-checker
+# email-spam-rule-scorer
 
 A browser tool that scores your email content against 40 SpamAssassin-style rules locally. No upload, no API, no tracking.
 
-**Live demo:** https://0xelitesystem.github.io/email-spam-score-checker/
+**Live demo:** https://0xelitesystem.github.io/email-spam-rule-scorer/
 
 Single HTML file. All checks run in the browser. Paste subject, from-address, and body. See a 0-to-20+ score broken down by which rules fired.
 
@@ -75,8 +75,8 @@ If you use the theme toggle, your light or dark choice is saved in your browser'
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/email-spam-score-checker
-cd email-spam-score-checker
+git clone https://github.com/0xelitesystem/email-spam-rule-scorer
+cd email-spam-rule-scorer
 ```
 
 Open `index.html` in a browser. Or serve the folder with `python -m http.server` and visit http://localhost:8000.
